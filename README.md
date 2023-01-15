@@ -1,2 +1,2 @@
-# Projeto-Apeperia
-Projeto feito durante aula de HTML e CSS. 
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
